@@ -14,5 +14,6 @@
       <li>Sjakk</li>
 			<li>Å lære om kroppen/medisin</li>
 		</ul>
+		<a href="side 1">Side 1</a>
 	</body>
 </html>
