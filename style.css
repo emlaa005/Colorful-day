@@ -4,14 +4,19 @@ body {
 p {
   color: black;
   font-family: sans-serif
-
+  text-align: middle ;
 }
+
 h1 {
   font-weight: bold;
   font-family: cursive;
   font-size: 34px;
   font-color: pink;
   }
+
+h2 {
+	text-align: middle
+}
 
  .overskrift {
   background-color: lightpink;
