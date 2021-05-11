@@ -12,3 +12,9 @@ h1 {
   font-size: 34px;
   font-color: pink;
   }
+
+ .header {
+  background-color: pink;
+  padding: 20px;
+  text-align: center;
+}
