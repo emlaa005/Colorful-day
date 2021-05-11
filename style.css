@@ -1,9 +1,9 @@
 body {
   background: white;
+  text-align: middle;
 }
 p {
   color: black;
-  text-align: middle;
   font-family: sans-serif;
 }
 
@@ -15,7 +15,7 @@ h1 {
   }
 
 h2 {
-	text-align: middle;
+	
 }
 
  .overskrift {
