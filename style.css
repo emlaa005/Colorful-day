@@ -45,7 +45,7 @@ h1 {
 
 /* Create three unequal columns that floats next to each other */
 .column {
-  float: right;
+  float: left;
   padding: 10px;
 }
 
