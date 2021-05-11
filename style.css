@@ -13,21 +13,22 @@ h1 {
   font-color: pink;
   }
 
- .header {
+ .overskrift {
   background-color: lightpink;
   padding: 20px;
   text-align: center;
+  color: black;
 }
 
 
-/* Style the top navigation bar */
-.topnav {
+
+.navigasjon {
   overflow: hidden;
   background-color: lightyellow;
 }
 
-/* Style the topnav links */
-.topnav a {
+
+.navigasjon a {
   float: left;
   display: block;
   color: black;
@@ -36,38 +37,11 @@ h1 {
   text-decoration: none;
 }
 
-/* Change color on hover */
-.topnav a:hover {
+
+.navigasjon a:hover {
   background-color: lightyellow;
   color: black;
 }
 
 
-/* Create three unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-}
 
-/* Left and right column */
-.column.side {
-  width: 30%;
-}
-
-/* Middle column */
-.column.middle {
-  width: 70%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column.side, .column.middle {
-    width: 100%;
-  }
