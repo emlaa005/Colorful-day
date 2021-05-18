@@ -162,5 +162,6 @@ img {
 
 
 .tekst1 {
-	width: 50px;
+	max-width: 960px;
+	text-align: center;
 }
