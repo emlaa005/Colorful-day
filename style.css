@@ -143,7 +143,7 @@ img {
   background-image:  url("Ink.jpg");
   background-position: center;
  display: flex;
-  margin: 500px;
+  margin: none;
 }
 
 .hero-text {
