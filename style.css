@@ -160,10 +160,6 @@ img {
 
 
 
-
-
-
-
 .column {
   float: left;
   width: 33.33%;
@@ -173,8 +169,3 @@ img {
 }
 
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
