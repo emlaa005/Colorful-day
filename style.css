@@ -136,6 +136,7 @@ img {
 /*trst*/
 
 /* HERO SECTION */
+
 .hero-section {
   height: 500px;
   width: 100%;
@@ -149,3 +150,12 @@ img {
   color: white;
   margin: auto;
 }
+
+
+/* ABOUT KITTY INTRO + CARDS */
+
+.intro-section,
+.cards-section {
+  max-width: 960px;
+}
+
