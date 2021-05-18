@@ -133,12 +133,12 @@ img {
   color: black;
 }
 
-/*trst*/
+/*test*/
 
 /* HERO SECTION */
 
 .hero-section {
-  height: 500px;
+  height: 1000px;
   width: 100%;
   background-image:  url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/234228/hero-bg.jpg);
   background-position: center;
@@ -157,5 +157,6 @@ img {
 .intro-section,
 .cards-section {
   max-width: 960px;
+  text-align: center;
 }
 
