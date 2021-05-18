@@ -152,16 +152,8 @@ img {
 }
 
 
-/* ABOUT KITTY INTRO + CARDS */
-
-.intro-section,
-.cards-section {
-  max-width: 960px;
-  text-align: center;
-}
-
 
 .tekst1 {
-	max-width: 960px;
+	max-width: 800px;
 	margin: auto;
 }
