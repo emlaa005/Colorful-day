@@ -140,10 +140,10 @@ img {
 .hero-section {
   height: 1000px;
   width: 100%;
-  background-image:  url("Beads.jpg");
+  background-image:  url("Ink.jpg");
   background-position: center;
  display: flex;
-  margin: auto;
+  margin: 0px;
 }
 
 .hero-text {
