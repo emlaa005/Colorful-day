@@ -169,7 +169,7 @@ img {
   height: 80px;
   text-align: center;
   text-decoration: none;
-  margin: 100px 40px;
+  margin: 5px 2px;
 }
 
 .fa:hover {
@@ -179,6 +179,7 @@ img {
 .fa-youtube {
   background: #bb0000;
   color: white;
+  font-size: 100px;
 }
 
 .fa-instagram {
