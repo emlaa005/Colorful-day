@@ -164,7 +164,7 @@ img {
 
 .fa {
   padding: 20px;
-  font-size: 30px;
+  font-size: 100px;
   width: 100px;
   height: 80px;
   text-align: center;
@@ -179,7 +179,6 @@ img {
 .fa-youtube {
   background: #bb0000;
   color: white;
-  font-size: 100px;
 }
 
 .fa-instagram {
