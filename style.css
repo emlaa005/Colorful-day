@@ -110,7 +110,7 @@ img {
   padding: 10px;
   height: 300px;
   text-decoration: none;
-  text-align: center;
+  
 }
 
 
@@ -176,3 +176,10 @@ img {
   size: 100px;
 }
 
+/*linker til blogg innlegg*/
+
+.linkb {
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
