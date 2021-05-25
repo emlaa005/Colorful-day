@@ -22,6 +22,10 @@ h2 {
 	
 }
 
+img {
+	position: left;
+}
+
  .overskrift {
   background-color: lightpink;
   padding: 25px;
