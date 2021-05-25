@@ -139,11 +139,8 @@ img {
    margin-top: 20px;
 }
 
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+
+
 }
 
 .fa {
