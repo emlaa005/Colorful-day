@@ -26,6 +26,10 @@ img {
 	position: left;
 }
 
+.innlegg {
+	text-align: left;
+}
+
  .overskrift {
   background-color: lightpink;
   padding: 25px;
